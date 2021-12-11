@@ -12,52 +12,80 @@ import './container.css';
 
 function Container() {
     return (
-        <div className="box">
-            <div className="img1">
-                <a href=""></a>
-            </div>
-            <div className="img1">
-                <img src={pic11} alt="#" />
-            </div>
-            <div className="img1">
-                <img src={pic4} alt="#" />
-            </div>
-            <div className="img1">
-                <img src={pic5} alt="#" />
-            </div>
-            <div className="img1">
-                <img src={pic6} alt="#" />
-            </div>
-            <div className="img1">
-                <img src={pic7} alt="#" />
-            </div>
-            <div className="img1">
-                <img src={pic8} alt="#" />
-            </div>
-            <div className="img1">
+        <div className="team-area">
+            <div className="single-team">
                 <img src={pic2} alt="#" />
+                <div className="team-text">
+                    <p>бизнес бар ресторан</p>
+                    <p>55</p>
+                    <p>12</p>
+                </div>
             </div>
-            <div className="img1">
-                <img src={pic9} alt="#" />
-            </div>
-            <div className="img1">
-                <img src={pic11} alt="#" />
-            </div>
-            <div className="img1">
-                <img src={pic6} alt="#" />
-            </div>
-            <div className="img1">
-                <img src={pic7} alt="#" />
-            </div>
-            <div className="img1">
+            <div className="single-team">
                 <img src={pic4} alt="#" />
+                <div className="team-text">
+                    <p>бизнес бар ресторан</p>
+                    <p>55</p>
+                    <p>12</p>
+                </div>
             </div>
-            <div className="img1">
+            <div className="single-team">
                 <img src={pic5} alt="#" />
+                <div className="team-text">
+                    <p>бизнес бар ресторан</p>
+                    <p>55</p>
+                    <p>12</p>
+                </div>
             </div>
-            <div className="img1">
+            <div className="single-team">
+                <img src={pic6} alt="#" />
+                <div className="team-text">
+                    <p>бизнес бар ресторан</p>
+                    <p>55</p>
+                    <p>12</p>
+                </div>
+            </div>
+            <div className="single-team">
+                <img src={pic7} alt="#" />
+                <div className="team-text">
+                    <p>бизнес бар ресторан</p>
+                    <p>55</p>
+                    <p>12</p>
+                </div>
+            </div>
+            <div className="single-team">
+                <img src={pic8} alt="#" />
+                <div className="team-text">
+                    <p>бизнес бар ресторан</p>
+                    <p>55</p>
+                    <p>12</p>
+                </div>
+            </div>
+            <div className="single-team">
+                <img src={pic9} alt="#" />
+                <div className="team-text">
+                    <p>бизнес бар ресторан</p>
+                    <p>55</p>
+                    <p>12</p>
+                </div>
+            </div>
+            <div className="single-team">
                 <img src={pic10} alt="#" />
+                <div className="team-text">
+                    <p>бизнес бар ресторан</p>
+                    <p>55</p>
+                    <p>12</p>
+                </div>
             </div>
+            <div className="single-team">
+                <img src={pic11} alt="#" />
+                <div className="team-text">
+                    <p>бизнес бар ресторан</p>
+                    <p>55</p>
+                    <p>12</p>
+                </div>
+            </div>
+
         </div>
     )
 }

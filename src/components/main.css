@@ -1,5 +1,5 @@
 main{
-    margin-top: -40px;
+    margin-top: 10px;
     text-align: center;
     background-image: url(../assets/01pic.jpg);
     background-color: rgb(146, 138, 138);
@@ -10,6 +10,7 @@ main{
 main h4 {
     color: white;
     padding-top: 150px;
+    padding-bottom: 25px;
     font-size: 35px;
 }
 .main-p1 {
@@ -19,13 +20,14 @@ main h4 {
    padding-bottom: 10px;
 }
 .main-p2 {
+    margin-top: 15px;
     color: rgb(146, 137, 137);
     font-size: 15px;
 }
 .main-p3 {  
     color: rgb(211, 197, 197);
     font-size: 15px;
-    margin-top: 115px;
+    margin-top: 165px;
 }
 .dropdown {
     margin-left: 8px;

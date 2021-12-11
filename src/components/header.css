@@ -1,9 +1,10 @@
 body {
-    margin: 0;
+    margin: 5px;
     padding: 0;
     font-family: sans-serif;
 }
 nav {
+    margin-top: 15px;
     height: 45px;
     margin: 0;
     padding: 0;

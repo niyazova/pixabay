@@ -4,7 +4,7 @@ import './main.css';
 function Main() {
     return (
         <main>
-          <h4>Невероятно красивые стоковые картинки <br /> бесплатно</h4>
+          <h4>Невероятно красивые стоковые картинки  бесплатно</h4>
           <p className="main-p1">Более 1 миллион изображний и видео высокого качества от нашего талантливого сообщества.</p>
           <div className="form">
                 <input type="text" placeholder="Search images, videos and music"/>
@@ -21,7 +21,8 @@ function Main() {
           </div>
           <p className="main-p2">Popular images: осень, коронавирус, фон, девушка, природа, дети, цветы, учитель, деньги, школа, телефон, кофе</p>
           <p className="main-p3">Бесплатные изображения lucythomasphotography</p>
-    </main>
+
+        </main>
     )
 }
 export default Main;
